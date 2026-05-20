@@ -80,7 +80,7 @@ gali-player/
 在线演示地址：
 
 ```txt
-https://your-gali-player-demo.vercel.app
+gali-player.vercel.app
 ```
 
 ## 备注
